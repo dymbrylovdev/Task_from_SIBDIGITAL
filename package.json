@@ -1,0 +1,15 @@
+{
+  "name": "TestTask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "pg": "^8.7.1"
+  }
+}
